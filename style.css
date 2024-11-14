@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:darksalmon;
+    color:rgb(238, 120, 9);
+    margin-top: 2%;
+    background: url(https://thumbs.dreamstime.com/z/text-happy-new-year-written-blue-over-snow-covered-landscape-snowfall-celebrating-arrival-ai-generated-snowy-327243153.jpg?ct=jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 55px;
+}
+.countdown {
+    font-size: 88px;
+    margin-bottom: 20px;
+    color:rgb(107, 21, 25);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.current-time {
+    font-size: 66px;
+    color:rgb(55, 207, 35);
+}
